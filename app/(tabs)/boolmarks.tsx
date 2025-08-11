@@ -4,7 +4,7 @@ import React from 'react'
 export default function boolmarks() {
   return (
     <View>
-      <Text>boolmarks</Text>
+      <Text>idemo</Text>
     </View>
   )
 }
