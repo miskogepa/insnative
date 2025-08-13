@@ -36,7 +36,7 @@ export default function login() {
       {/* ILLUSTRATION */}
       <View style={styles.illustrationContainer}>
         <Image
-          source={require("../../assets/images/icon.png")}
+          source={require("../../assets/images/auth-bg-2.png")}
           style={styles.illustration}
           resizeMode="cover"
         />
